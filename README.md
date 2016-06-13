@@ -1,4 +1,4 @@
-# Tasker Tasks [![Github All Releases](https://img.shields.io/github/downloads/dudeofawesome/tasker-tasks/total.svg?maxAge=2592000)](https://github.com/dudeofawesome/tasker-tasks) [![GitHub forks](https://img.shields.io/github/forks/dudeofawesome/tasker-tasks.svg?style=social&label=Fork&maxAge=2592000)](https://github.com/dudeofawesome/tasker-tasks#fork-destination-box)
+# Tasker Tasks [![GitHub forks](https://img.shields.io/github/forks/dudeofawesome/tasker-tasks.svg?style=social&label=Fork&maxAge=2592000)](https://github.com/dudeofawesome/tasker-tasks#fork-destination-box)
 A collection of my Tasker tasks that others might be interested in
 
 ## Task Descriptions
