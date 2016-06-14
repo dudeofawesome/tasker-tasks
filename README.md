@@ -3,20 +3,20 @@ A collection of my Tasker tasks that others might be interested in
 
 ## Task Descriptions
 
-* [Play Music While Driving](/Play Music While Driving.xml) <a href="https://raw.githubusercontent.com/dudeofawesome/tasker-tasks/master/Play%20Music%20While%20Driving.xml" style="margin-left: 10px;" download>![download](https://img.shields.io/badge/download-%20-brightgreen.svg)</a>
+* [Play Music While Driving](/Play Music While Driving.prf.xml) <a href="https://raw.githubusercontent.com/dudeofawesome/tasker-tasks/master/Play%20Music%20While%20Driving.prf.xml" style="margin-left: 10px;" download>![download](https://img.shields.io/badge/download-%20-brightgreen.svg)</a>
     * Starts music automatically when you get in your car
     * Set up to use Google Play Music by default, but can use most any service
     * Starts volume at 0 and ramps it up to ~85% over 5 seconds
     * Resets media volume to original volume after leaving the car
 
-* <a href="/Play Music While Driving (Android Wear).xml">Play Music While Driving (with Android Wear watch with speaker)</a> <a href="https://raw.githubusercontent.com/dudeofawesome/tasker-tasks/master/Play%20Music%20While%20Driving%20(Android%20Wear).xml" style="margin-left: 10px;" download>![download](https://img.shields.io/badge/download-%20-brightgreen.svg)</a>
+* <a href="/Play Music While Driving (Android Wear).prf.xml">Play Music While Driving (with Android Wear watch with speaker)</a> <a href="https://raw.githubusercontent.com/dudeofawesome/tasker-tasks/master/Play%20Music%20While%20Driving%20(Android%20Wear).prf.xml" style="margin-left: 10px;" download>![download](https://img.shields.io/badge/download-%20-brightgreen.svg)</a>
     * Works when you have an Android wear watch with a speaker
     * Starts music automatically when you get in your car
     * Set up to use Google Play Music by default, but can use most any service
     * Starts volume at 0 and ramps it up to ~85% over 5 seconds
     * Resets media volume to original volume after leaving the car
 
-* [Sleep as Android](/Sleep as Android.xml) <a href="https://raw.githubusercontent.com/dudeofawesome/tasker-tasks/master/Sleep%20as%20Android.xml" style="margin-left: 10px;" download>![download](https://img.shields.io/badge/download-%20-brightgreen.svg)</a>
+* [Sleep as Android](/Sleep as Android.prf.xml) <a href="https://raw.githubusercontent.com/dudeofawesome/tasker-tasks/master/Sleep%20as%20Android.prf.xml" style="margin-left: 10px;" download>![download](https://img.shields.io/badge/download-%20-brightgreen.svg)</a>
     * Turns off lights and silences phone when sleep tracking is started
     * If you use music to fall asleep to, it will pause it after 30 minutes
     * Turns on your lights and unsilences when your alarm goes off
